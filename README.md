@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadynesmith
-- 👀 I’m interested in Software Engineering in Fintech.
+- 👀 I’m interested in most backend Software Development, but also full stack.
 - 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to publish fun projects & work toward an internship.
 - 📫 How to reach me: jadynesmith.dev@gmail.com.
