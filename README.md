@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jadynesmith
 - 👀 I’m interested in Software Engineering in Fintech.
-- 🌱 I’m currently learning Python's Kivy Framwork.
-- 💞️ I’m looking to collaborate on fun software development projects!
+- 🌱 I’m currently learning React.js.
+- 💞️ I’m looking to publish fun projects & work toward an internship.
 - 📫 How to reach me: jadynesmith.dev@gmail.com.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I also love video games, specifically Elder Scrolls V: Skyrim and Elden Ring.
