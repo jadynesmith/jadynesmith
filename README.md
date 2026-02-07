@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadynesmith
-- 👀 I’m interested in most backend Software Development, but also full stack.
-- 🌱 I’m currently learning React.js.
+- 👀 I’m interested in both backend and full stack Software Development in the Fintech field.
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to publish fun projects & work toward an internship.
 - 📫 How to reach me: jadynesmith.dev@gmail.com.
 - 😄 Pronouns: she/her.
