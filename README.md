@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadynesmith
-- 👀 I’m interested in both backend and full stack Software Development in the Fintech field.
-- 🌱 I’m currently learning PHP.
+- 👀 I’m interested in both Web Development & Fintech Software Engineering.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to publish fun projects & work toward an internship.
 - 📫 How to reach me: jadynesmith.dev@gmail.com.
 - 😄 Pronouns: she/her.
